@@ -1,7 +1,0 @@
-
-r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(èÑÁòşÿÿÿÿ8„ÀÕùù0
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Æ´¾£8‰ÀÕùù0
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÑÁòşÿÿÿÿ8¡ÀÕùù0
